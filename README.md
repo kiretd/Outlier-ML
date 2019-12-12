@@ -31,16 +31,19 @@ and python configuration.
 
 ### Isolation Forest
 Isolation Forest decision function (for contamination proportion of 0.4) and performance for difference contamination proportions.
+
 ![Isolation Forest Decision Function][isofor_df]
 ![Isolation Forest Performance][isofor_perf]
 
 ### One-Class Support Vector Machine
 Visualization of the One-Class SVM decision function.
+
 ![SVM Decision Function][svm_df]
 
 ### Local Outlier Factor
 Visualization of LOF output: sample data with Outlier Score for each sample. 
 Larger score means high probability of being an outlier.
+
 ![LOF Output Visualization][lof_viz]
 
 [isofor_df]: https://github.com/kiretd/Outlier-ML/blob/master/sample_images/IsoFor_map.png
